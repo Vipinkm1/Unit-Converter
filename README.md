@@ -2,6 +2,7 @@
 This project convert feet value into inches.
 # Output...
 
-![Screenshot (92)](https://user-images.githubusercontent.com/87972338/221162651-99cc006e-56b5-47cc-bb5e-ca5f411d4b83.png)
+
+![Screenshot (93)](https://user-images.githubusercontent.com/87972338/222321246-aefe8bb2-c3e2-4cef-842f-2295af23bab9.png)
 
 
